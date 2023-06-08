@@ -1,0 +1,16 @@
+.favs{
+    margin-top: 50px;
+}
+
+.container-favs{
+    margin-top: 25px;
+    display:grid;
+    padding-top:0px;
+    grid-template-columns: 250px 250px 250px 250px;
+    column-gap: 120px;
+    width:1360px;
+    margin-left: auto;
+    margin-right: auto;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 50px;
+}

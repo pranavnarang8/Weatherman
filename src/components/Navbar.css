@@ -1,0 +1,27 @@
+.nav{
+    background-color: #111;
+    color:white;
+    position:fixed;
+    top:0;
+    width:100%;
+    height: 45px;
+}
+
+.nav-list{
+    list-style-type: none;
+    display:flex;
+    margin:12px 10px 12px 0px;
+    padding-left:20px;
+    align-items: center;
+}
+
+.nav-item{
+    color:silver;
+    margin-right:15px;
+}
+
+.title{
+    color: white;
+    font-weight: 700;
+}
+

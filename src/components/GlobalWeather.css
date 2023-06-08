@@ -1,0 +1,19 @@
+.list_header{
+    margin-top: 50px;
+}
+
+.list_container{
+    display: flex;
+    width:1100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+}
+
+.list_one_container, .list_two_container{
+    width:550px;
+}
+
+.list_1, .list_2{
+    padding-left: 0px;
+}
